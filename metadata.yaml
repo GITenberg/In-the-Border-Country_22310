@@ -1,0 +1,43 @@
+_repo: In-the-Border-Country_22310
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Peck, Clara Elsene
+    alias: Williams, Clara Elsene
+    birthdate: 1883
+    gutenberg_agent_id: '25254'
+    url: http://www.gutenberg.org/2009/agents/25254
+covers:
+- cover_type: archival
+  image_path: 22310-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Bacon, Josephine Daskam
+    aliases:
+    - Bacon, Josephine Dodge Daskam
+    - Daskam, Josephine Dodge
+    - Lovell, Ingraham
+    - Bacon, Selden, Mrs.
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '9246'
+    url: http://www.gutenberg.org/2009/agents/9246
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
+description: ''
+gutenberg_issued: '2007-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22310'
+  lccn: 09027445
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: The hut in the woods -- The farm by the forest -- The castle on the
+  dunes.
+title: In the Border Country
+url: http://www.gutenberg.org/ebooks/22310
