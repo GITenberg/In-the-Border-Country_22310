@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9246
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22310#In-the-Border-Country
 gutenberg_issued: '2007-08-13'
 gutenberg_type: Text
 identifiers:
